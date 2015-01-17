@@ -47,7 +47,7 @@ class TypingTrainer() {
     }
 
     private fun finish() {
-        statistics.textContent = "Fnished!"
+        statistics.textContent = "Finished!"
 
         showStats()
     }
