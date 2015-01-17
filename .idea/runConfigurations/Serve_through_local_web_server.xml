@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Serve through local web server" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/kotlin-javascript-example-typing-trainer/target/production/kotlin-javascript-example-typing-trainer/index.html">
+    <RunnerSettings RunnerId="JavascriptDebugRunner" />
+    <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+    <method>
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

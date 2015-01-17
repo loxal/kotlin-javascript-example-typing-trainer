@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run Example" type="K2JSConfigurationType" factoryName="Kotlin (JavaScript)" singleton="true">
+    <K2JSConfigurationSettings>
+      <option name="browserFamily" value="Chrome" />
+      <option name="generatedFilePath" value="$PROJECT_DIR$/target/production/kotlin-javascript-example-typing-trainer" />
+      <option name="pageToOpenFilePath" value="$PROJECT_DIR$/target/production/kotlin-javascript-example-typing-trainer/index.html" />
+      <option name="shouldOpenInBrowserAfterTranslation" value="true" />
+    </K2JSConfigurationSettings>
+    <RunnerSettings RunnerId="K2JSBrowserRunner" />
+    <ConfigurationWrapper RunnerId="K2JSBrowserRunner" />
+    <method />
+  </configuration>
+</component>
