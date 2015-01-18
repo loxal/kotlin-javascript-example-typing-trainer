@@ -1,6 +1,9 @@
 # Kotlin JavaScript: Typing Trainer
 A simple Kotlin (JavaScript) HTML5 Canvas app that lets one type a random series of letters.
 
+## Demo / Showcase / Tryout
+[And this is how it looks like...](http://www.loxal.net/proof-of-concept-incubator/10-finger-typing-trainer)
+
 ## Getting Started
 
 1. Run the “Serve through local web server” configuration:
